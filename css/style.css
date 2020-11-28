@@ -1,0 +1,37 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.header,.hero,.body,.bar,.footer{
+	margin-bottom: 50px;
+	background-color:#0a043c; 
+}
+.box{
+	padding: 30px;
+	margin: 30px 0;
+	background-color: #d35d6e;
+	min-height: 150px;
+}
+.box2{
+	padding: 30px;
+	margin: 30px 0;
+	background-color: red;
+	font-size: 25px;
+	min-height: 150px;	
+}
+.box3{
+	padding: 30px;
+	margin: 30px 0;
+	background-color: green;
+	font-size: 25px;
+	min-height: 150px;	
+}
+.box p,.box2 p,.box3 p{
+	font-size: 25px;
+	color: #fff;
+}
+
+.my-border{
+	background-color: #61b15a;
+	padding: 20px;
+}
